@@ -1,4 +1,4 @@
-# windowsrootkit
+# windowsrootkit <img src="https://forthebadge.com/images/badges/made-with-c-plus-plus.svg" /> <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
 ### Combination of my code and other's code, adapted to a specific standard.
 
 - Tested on ***Windows x86_64 1909***, local.
